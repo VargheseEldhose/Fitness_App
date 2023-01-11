@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android  Project - Varghese &amp; Zawad</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">For sending notification</string>
+</resources>

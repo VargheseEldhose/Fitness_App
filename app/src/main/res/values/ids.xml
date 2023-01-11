@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_dashboard" type="id" />
+    <item name="ic_settings" type="id" />
+    <item name="ic_browser" type="id" />
+    <item name="ic_food" type="id" />
+    <item name="ic_run" type="id" />
+</resources>
